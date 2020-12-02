@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Ingrid Prates, Facebook](https://www.facebook.com/photo?fbid=102854034787525&set=a.102854051454190)
