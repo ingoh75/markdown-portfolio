@@ -1,7 +1,7 @@
-- Gosto de cuidar dos meus filhos;
-- Estudar códigos (como estou fazendo agora);
-- Organizar tudo o que eu faço (desde meus estudos, pesquisas e minhas coisas pessoais);
-- Sou focada em aprender coisas novas;
-- Gosto de ler sobre diversos tipos de assuntos;
-- Assistir vídeos interessantes e documentários;
-- Gosto de jogos de video-games.
+- I like to take care of my children;
+- Studying codes (as I am doing now);
+- Organize everything I do (from my studies, research and personal things);
+- I am focused on learning new things;
+- I like to read about different types of subjects;
+- Watch interesting videos and documentaries;
+- I like video games.
