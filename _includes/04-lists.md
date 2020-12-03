@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Gosto de cuidar dos meus filhos;
+- Estudar códigos (como estou fazendo agora);
+- Organizar tudo o que eu faço (desde meus estudos, pesquisas e minhas coisas pessoais);
+- Sou focada em aprender coisas novas;
+- Gosto de ler sobre diversos tipos de assuntos;
+- Assistir vídeos interessantes e documentários;
+- Gosto de jogos de video-games.
